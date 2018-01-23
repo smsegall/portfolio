@@ -69,7 +69,7 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 </ul>
 
 <h2>Links to my Websites</h2>
-<strong>Follow me</strong> on <A HREF="htps://www.instagram.com/customjay_kari">Instagram</A>.<br>
+<strong>Follow me</strong> on <A HREF="https://www.instagram.com/customjay_kari">Instagram</A>.<br>
 <strong>Watch me</strong> on <A HREF="https://www.youtube.com/channel/UCKCzp9MZBX6MwiSeK-PldIg?view_as=subscriber/">Youtube</A>.<br>
 <strong>Purchase items</strong> on my <A HREF="https://www.ebay.com/usr/karithrifts8/">Ebay Store</A>.<br>
 
