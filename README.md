@@ -18,7 +18,7 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <li>Marketing</li>
 <li>Sales</li>
 <li>Budgets</li>
-<li>Effective planning and organization</li>
+<li>Planning</li>
 <li>Problem solving</li>
 <li>Research skills</li>
 <li>Communication skills</li>
