@@ -53,7 +53,7 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <li>Web development</li>
 <li>CSS</li>
 <li>Basic HTML</li>
-<li>Abiity to work on multiple platforms</li>
+<li>Ability to work on multiple platforms</li>
 </ul>
 
 <h2>Software Knowledge</h2>
