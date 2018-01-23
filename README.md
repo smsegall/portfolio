@@ -77,7 +77,7 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <img src="https://preview.ibb.co/jJtD1w/logo.png" width="300" alt="Tutoring Business Logo">
 <img src="https://preview.ibb.co/fYM0gw/fair.png" width="300" alt="Florida State Fair Flyer">
 <img src="car.png" width="400" alt="Antique Car">
-<img src="https://image.ibb.co/knCTZG/flower.png" width="300" alt="Pink Flower">
+<img src="https://image.ibb.co/knCTZG/flower.png" width="200" alt="Pink Flower">
 <img src="collage.png" width="400" alt="Natural and Proud">
 <img src="dots.png" width="400" alt="Nature Pointillism">
 
