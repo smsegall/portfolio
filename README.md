@@ -28,8 +28,7 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <li>Decision making</li>
 <li>Estimating costs</li>
 <li>Multitasking</li>
-<li>Organization</li>
-<li>Social media and networking</li>
+<li>Organization</li><li>Social media and networking</li>
 </ul>
 
 <h4>Artistic Skills</h4>
