@@ -28,7 +28,8 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <li>Decision making</li>
 <li>Estimating costs</li>
 <li>Multitasking</li>
-<li>Organization</li><li>Social media and networking</li>
+<li>Organization</li>
+<li>Social media and networking</li>
 </ul>
 
 <h4>Artistic Skills</h4>
@@ -73,7 +74,7 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <strong>Purchase items</strong> on my <A HREF="https://www.ebay.com/usr/karithrifts8/">Ebay Store</A>.<br>
 
 <h2>My Work</h2>
-<img src="https://photos.app.goo.gl/u7qpHSlMhDM6odek2" width="400" alt="Tutoring Business Logo">
+<img src="https://photos.app.goo.gl/u7qpHSlMhDM6odek2" alt="Tutoring Business Logo">
 <img src=""https://preview.ibb.co/fYM0gw/fair.png" width="400" alt="Florida State Fair Flyer">
 <img src="car.png" width="400" alt="Antique Car">
 <img src=""https://image.ibb.co/knCTZG/flower.png" width="400" alt="Pink Flower">
