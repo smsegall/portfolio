@@ -12,7 +12,7 @@
 Sara Segall is a digital media student currently studying at Seminole State College in Florida. Her coursework reflects aspects in web, film, studio art, and her core focus of graphic design. She has ten plus years’ experience as a studio artist that has won multiple awards for her artwork and is now taking her talents to computer based art. While attending school she also operates two businesses; an online resell business and a sneaker customizing business. Both allow her to gain and promote her professional and creative skills. You can reach her through her social networks @customsbykari.
 </p>
 
-<h3>Professional and Creative Skills</h3>
+<h2>Professional and Creative Skills</h2>
   <h4>Business Skills</h4>
   <ul>
 <li>Marketing</li>
@@ -56,7 +56,7 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <li>Abiity to work on multiple platforms</li>
 </ul>
 
-<h3>Software Knowledge</h3>
+<h2>Software Knowledge</h2>
 <ul>
 <li>Adobe Acrobat</li>
 <li>Adobe Illustrator</li>
@@ -68,18 +68,18 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <li>Microsoft Word</li>
 </ul>
 
-<h3>Links to my Websites</h3>
+<h2>Links to my Websites</h2>
 <strong>Follow me</strong> on <A HREF="htps://www.instagram.com/customjay_kari">Instagram</A>.<br>
 <strong>Watch me</strong> on <A HREF="https://www.youtube.com/channel/UCKCzp9MZBX6MwiSeK-PldIg?view_as=subscriber/">Youtube</A>.<br>
 <strong>Purchase items</strong> on my <A HREF="https://www.ebay.com/usr/karithrifts8/">Ebay Store</A>.<br>
 
-<h3>My Work</h3>
-<img src="logo.png" width="300" height="300" alt="Tutoring Business Logo">
-<img src="fair.png" width="400" height="300" alt="Florida State Fair Flyer">
-<img src="car.png" width="400" heigt="300" alt="Antique Car">
-<img src="flower.png" width="300" width="400" alt="Pink Flower">
-<img src="collage.png" width="300" height="400" alt="Natural and Proud">
-<img src="dots.png" width="300" height="400" alt="Nature Pointillism">
+<h2>My Work</h2>
+<img src="logo.png" width="400" alt="Tutoring Business Logo">
+<img src="fair.png" width="400" alt="Florida State Fair Flyer">
+<img src="car.png" width="400" alt="Antique Car">
+<img src="flower.png" width="400" alt="Pink Flower">
+<img src="collage.png" width="400" alt="Natural and Proud">
+<img src="dots.png" width="400" alt="Nature Pointillism">
 
 </body>
 </html>
