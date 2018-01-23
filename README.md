@@ -74,14 +74,14 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <strong>Purchase items</strong> on my <A HREF="https://www.ebay.com/usr/karithrifts8/">Ebay Store</A>.<br>
 
 <h2>My Work</h2>
-<img src="https://photos.app.goo.gl/u7qpHSlMhDM6odek2" alt="Tutoring Business Logo">
+<img src="https://preview.ibb.co/jJtD1w/logo.png" alt="Tutoring Business Logo">
 <img src="https://preview.ibb.co/fYM0gw/fair.png" width="400" alt="Florida State Fair Flyer">
 <img src="car.png" width="400" alt="Antique Car">
 <img src="https://image.ibb.co/knCTZG/flower.png" width="400" alt="Pink Flower">
 <img src="collage.png" width="400" alt="Natural and Proud">
 <img src="dots.png" width="400" alt="Nature Pointillism">
 
-<a href="https://preview.ibb.co/jJtD1w/logo.png">Tutoring Business Logo</a>
+<a href=">Tutoring Business Logo</a>
 
 </body>
 </html>
