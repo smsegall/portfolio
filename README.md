@@ -81,5 +81,7 @@ Sara Segall is a digital media student currently studying at Seminole State Coll
 <img src="collage.png" width="400" alt="Natural and Proud">
 <img src="dots.png" width="400" alt="Nature Pointillism">
 
+<a href="https://preview.ibb.co/jJtD1w/logo.png">Tutoring Business Logo</a>
+
 </body>
 </html>
