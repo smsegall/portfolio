@@ -9,7 +9,7 @@
 <h1>Sara Segall</h1><br>
 <h2>Portfolio</h2>
 <p>
-Sara Segall is a digital media student currently studying at Seminole State College in Florida. Her coursework reflects aspects in web, film, studio art, and her core focus of graphic design. She has ten plus years’ experience as a studio artist that has won multiple awards for her artwork and is now taking her talents to computer based art. While attending school she also operates two businesses; an online resell business and a sneaker customizing business. Both allow her to gain and promote her professional and creative skills. You can reach her through her social networks @customsbykari.
+Sara Segall is a digital media student currently studying at Seminole State College in Florida. Her coursework reflects aspects in web, film, studio art, and her core focus of graphic design. She has ten plus years’ experience as a studio artist that has won multiple awards for her artwork and is now taking her talents to computer based art. While attending school she also operates two businesses; an online resell business and a sneaker customizing business. Both allow her to gain and promote her professional and creative skills. You can reach her through her social networks <strong>@customjay_kari</strong>.
 </p>
 
 <h2>Professional and Creative Skills</h2>
